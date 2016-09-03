@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f7b26cf5-d7e4-48d9-a323-bdeabda4225e" name="dev37-devc" url="http://dev37-devc.dev.yelpcorp.com">
+        <fileTransfer host="dev37-devc.dev.yelpcorp.com" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/nail/home/dbao" accessType="SFTP" username="dbao" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
