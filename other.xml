@@ -70,6 +70,7 @@
         <entry key="sftp://dbao@dev37-devc.dev.yelpcorp.com:22/nail/home/dbao/github/overprovisioning/myenv2.7/bin/python" value="false" />
         <entry key="sftp://dbao@dev37-devc.dev.yelpcorp.com:22/nail/home/dbao/github/signalflow-cli/myenv2.7/bin/python" value="false" />
         <entry key="sftp://dbao@dev37-devc.dev.yelpcorp.com:22/nail/home/dbao/hackathon20/twisted_s3/virtualenv/bin/python" value="false" />
+        <entry key="sftp://dbao@dev37-devc.dev.yelpcorp.com:22/nail/home/dbao/pg/overprov/myenv2.7/bin/python" value="true" />
         <entry key="sftp://dbao@dev37-devc.dev.yelpcorp.com:22/nail/home/dbao/pg/services/apollo/virtualenv_run/bin/python" value="false" />
       </map>
     </option>
@@ -79,6 +80,7 @@
         <entry key="sftp://dbao@dev37-devc.dev.yelpcorp.com:22/nail/home/dbao/github/overprovisioning/myenv2.7/bin/python" value="false" />
         <entry key="sftp://dbao@dev37-devc.dev.yelpcorp.com:22/nail/home/dbao/github/signalflow-cli/myenv2.7/bin/python" value="false" />
         <entry key="sftp://dbao@dev37-devc.dev.yelpcorp.com:22/nail/home/dbao/hackathon20/twisted_s3/virtualenv/bin/python" value="false" />
+        <entry key="sftp://dbao@dev37-devc.dev.yelpcorp.com:22/nail/home/dbao/pg/overprov/myenv2.7/bin/python" value="false" />
         <entry key="sftp://dbao@dev37-devc.dev.yelpcorp.com:22/nail/home/dbao/pg/services/apollo/virtualenv_run/bin/python" value="false" />
       </map>
     </option>
@@ -88,6 +90,7 @@
         <entry key="sftp://dbao@dev37-devc.dev.yelpcorp.com:22/nail/home/dbao/github/overprovisioning/myenv2.7/bin/python" value="false" />
         <entry key="sftp://dbao@dev37-devc.dev.yelpcorp.com:22/nail/home/dbao/github/signalflow-cli/myenv2.7/bin/python" value="false" />
         <entry key="sftp://dbao@dev37-devc.dev.yelpcorp.com:22/nail/home/dbao/hackathon20/twisted_s3/virtualenv/bin/python" value="false" />
+        <entry key="sftp://dbao@dev37-devc.dev.yelpcorp.com:22/nail/home/dbao/pg/overprov/myenv2.7/bin/python" value="false" />
         <entry key="sftp://dbao@dev37-devc.dev.yelpcorp.com:22/nail/home/dbao/pg/services/apollo/virtualenv_run/bin/python" value="false" />
       </map>
     </option>
