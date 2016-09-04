@@ -2,6 +2,7 @@
   <component name="PySdkService">
     <option name="REMOVED_SDKS">
       <set>
+        <option value="sftp://dbao@dev37-devc.dev.yelpcorp.com:22/nail/home/dbao/github/overprovisioning/myenv2.7/bin/python" />
         <option value="sftp://dbao@dev37-devc.dev.yelpcorp.com:22/nail/home/dbao/hackathon-20/twisted_s3/virtualenv" />
         <option value="sftp://dbao@dev37-devc.dev.yelpcorp.com:22/usr/bin/python" />
       </set>
