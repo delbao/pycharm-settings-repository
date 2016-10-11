@@ -73,6 +73,7 @@
         <entry key="sftp://dbao@dev37-devc.dev.yelpcorp.com:22/nail/home/dbao/pg/overprov/myenv2.7/bin/python" value="true" />
         <entry key="sftp://dbao@dev37-devc.dev.yelpcorp.com:22/nail/home/dbao/pg/python_packages/overprov/virtualenv_run/bin/python" value="true" />
         <entry key="sftp://dbao@dev37-devc.dev.yelpcorp.com:22/nail/home/dbao/pg/services/apollo/virtualenv_run/bin/python" value="false" />
+        <entry key="sftp://dbao@dev37-devc.dev.yelpcorp.com:22/nail/home/dbao/pg/submodules/yelp_cassandra_backup/.tox/py27/bin/python" value="false" />
       </map>
     </option>
     <option name="SDK_TO_NOSETEST">
@@ -84,6 +85,7 @@
         <entry key="sftp://dbao@dev37-devc.dev.yelpcorp.com:22/nail/home/dbao/pg/overprov/myenv2.7/bin/python" value="false" />
         <entry key="sftp://dbao@dev37-devc.dev.yelpcorp.com:22/nail/home/dbao/pg/python_packages/overprov/virtualenv_run/bin/python" value="false" />
         <entry key="sftp://dbao@dev37-devc.dev.yelpcorp.com:22/nail/home/dbao/pg/services/apollo/virtualenv_run/bin/python" value="false" />
+        <entry key="sftp://dbao@dev37-devc.dev.yelpcorp.com:22/nail/home/dbao/pg/submodules/yelp_cassandra_backup/.tox/py27/bin/python" value="false" />
       </map>
     </option>
     <option name="SDK_TO_ATTEST">
@@ -95,6 +97,7 @@
         <entry key="sftp://dbao@dev37-devc.dev.yelpcorp.com:22/nail/home/dbao/pg/overprov/myenv2.7/bin/python" value="false" />
         <entry key="sftp://dbao@dev37-devc.dev.yelpcorp.com:22/nail/home/dbao/pg/python_packages/overprov/virtualenv_run/bin/python" value="false" />
         <entry key="sftp://dbao@dev37-devc.dev.yelpcorp.com:22/nail/home/dbao/pg/services/apollo/virtualenv_run/bin/python" value="false" />
+        <entry key="sftp://dbao@dev37-devc.dev.yelpcorp.com:22/nail/home/dbao/pg/submodules/yelp_cassandra_backup/.tox/py27/bin/python" value="false" />
       </map>
     </option>
   </component>
