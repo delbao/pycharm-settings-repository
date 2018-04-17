@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="02fd149b-07b1-45e8-b382-3754ead136a9" name="devapp" url="http://dev-dbao.ec2.pin220.com">
+        <fileTransfer host="dev-dbao.ec2.pin220.com" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/dbao" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
